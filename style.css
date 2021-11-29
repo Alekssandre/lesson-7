@@ -1,0 +1,14 @@
+.now {
+	display: flex;
+	background: #ADADFA;
+	height: 1000px;
+}
+.flou{
+	display: flex;
+	width: 2000px;
+	height: 400px;
+	background-color: #000CFF;
+	color: #FFFFFF;
+	padding: 40px 200px ;
+	margin-top: 60px;
+}
