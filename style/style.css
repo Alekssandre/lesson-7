@@ -25,13 +25,13 @@
 	background-color: white;
 		}	
 
-.cloud{
+.cloud {
 	display: inline-block;
 	margin-left: 500px;
 	margin-top: -389px;
 	position: relative;
 		}
-.self{
+.self {
 	position: absolute;
 	width: 300px;
 	top: 730px;
@@ -40,14 +40,18 @@
 	margin-top: -195px;
 	border-radius: 15px;
 	background-color: white;
+	 }
+.text {
+	font-size: 26px;
+	font-family: "ALK";
 }
-.shift{
+.shift {
 	display: inline-block;
 	margin-left: 970px;
 	margin-top: -450px;
 	position: relative;
-	  }
-.crown{
+	   }
+.crown {
 	position: absolute;
 	width: 300px;
 	top: 730px;
@@ -56,14 +60,14 @@
 	margin-top: -140px;
 	border-radius: 15px;
 	background-color: white
-}
-.find{
+       }   
+.find {
 	display: inline-block;
 	margin-left: 1380px;
 	margin-top: -400px;
 	position: relative;
-}
-.close{
+	   }
+.close {
 	position: absolute;
 	width: 300px;
 	top: 700px;
@@ -72,4 +76,4 @@
 	margin-top: -100px;
 	border-radius: 15px;
 	background-color: white
-}
+ 	     }
